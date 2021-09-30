@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-MicroserviceApplication<microservice>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.microservicejava.microservice.MicroserviceApplication",
+            "projectName": "microservice",
+            "args": ""
+        }
+    ]
+}
